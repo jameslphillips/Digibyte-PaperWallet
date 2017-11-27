@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.17.1",
+    "digibyte": "^0.14.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
+    "react-icons": "^2.2.7",
+    "react-motion-menu": "^0.4.4",
+    "react-redux": "^5.0.6",
     "react-scripts": "1.0.17"
   },
   "scripts": {
