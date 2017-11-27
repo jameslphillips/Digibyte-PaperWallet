@@ -50,7 +50,7 @@ class App extends Component {
        </h1>
 
        <h1>
-       Public Address: {address.publicKey.toAddress().toString()}
+       Public Address: {address.publicKey.toString()} 
        </h1>
      
 
